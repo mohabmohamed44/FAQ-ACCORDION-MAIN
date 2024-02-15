@@ -9,18 +9,38 @@ The designs were created to the following widths:
 
 ## Colors
 
-- White: hsl(0, 0%, 100%)
-- Light pink: hsl(275, 100%, 97%)
-- Grayish purple: hsl(292, 16%, 49%)
-- Dark purple: hsl(292, 42%, 14%)
+### Primary
+
+#### Text
+
+- Very dark desaturated blue: hsl(238, 29%, 16%)
+- Soft red: hsl(14, 88%, 65%)
+
+#### Gradient
+
+Background gradient:
+
+- Soft violet: hsl(273, 75%, 66%)
+- Soft blue: hsl(240, 73%, 65%)
+
+### Neutral
+
+#### Text
+
+- Very dark grayish blue: hsl(237, 12%, 33%)
+- Dark grayish blue: hsl(240, 6%, 50%)
+
+#### Dividers
+
+- Light grayish blue: hsl(240, 5%, 91%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraphs): 16px
+- Font size: 12px
 
 ### Font
 
-- Family: [Work Sans](https://fonts.google.com/specimen/Work+Sans)
-- Weights: 400, 600, 700
+- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Weights: 400, 700
